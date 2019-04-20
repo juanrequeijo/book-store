@@ -1,4 +1,4 @@
-# API Library - Atividade 2
+# API Book Store - Atividade 3
 
 ## Como executar
 
